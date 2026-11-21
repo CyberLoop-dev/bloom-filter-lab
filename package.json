@@ -1,0 +1,11 @@
+{
+  "name": "bloom-filter-lab",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "A browser-based Bloom filter playground for understanding compact probabilistic membership tests.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
